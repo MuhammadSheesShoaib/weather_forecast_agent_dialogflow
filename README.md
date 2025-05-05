@@ -31,8 +31,8 @@ This project is a webhook-based weather chatbot using **Google Dialogflow ES** a
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/your-username/weather-chatbot.git
-  cd weather-chatbot
+  git clone https://github.com/MuhammadSheesShoaib/weather_forecast_agent_dialogflow.git
+  cd weather_forecast_agent_dialogflow
  ```
 2. Create virtual environment and install dependencies:
 ```bash
