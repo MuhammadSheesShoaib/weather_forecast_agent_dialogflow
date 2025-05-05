@@ -11,9 +11,11 @@ This project is a webhook-based weather chatbot using **Google Dialogflow ES** a
 
 - Integrates with Dialogflow ES using webhook
 - Fetches data from OpenWeatherMap API
-- Supports two intents:
+- Supports four intents:
   - `current_weather`
   - `forecast_weather`
+  - `thanks`
+  - `no_more_help`
  
 ---
 
